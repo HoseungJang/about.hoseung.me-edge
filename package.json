@@ -1,6 +1,6 @@
 {
   "name": "about.hoseung.me-edge",
-  "description": "Cloudfront Functions for about.hoseung.me",
+  "description": "CloudFront Functions for about.hoseung.me",
   "scripts": {
     "build": "tsc"
   },
