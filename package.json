@@ -1,0 +1,9 @@
+{
+  "name": "about.hoseung.me-edge",
+  "description": "Cloudfront Functions for about.hoseung.me",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/aws-cloudfront-function": "^1.0.4",
+    "typescript": "^5.2.2"
+  }
+}
